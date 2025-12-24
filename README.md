@@ -1,4 +1,5 @@
-﻿﻿# Banking ETL Assessment
+
+# Banking ETL Assessment
 
 ## Overview Project
 

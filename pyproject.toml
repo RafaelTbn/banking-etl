@@ -1,0 +1,13 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "banking_etl_assessment"
+version = "0.1.0"
+description = "Simple ETL assessment package"
+authors = [{name = "Repo Owner"}]
+dependencies = []
+
+[tool.setuptools.packages.find]
+include = ["etl", "utils"]
